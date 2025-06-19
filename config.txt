@@ -1,0 +1,4 @@
+confidence=0.8
+model_path="last.pt"
+
+להעביר את כל הניתובים
